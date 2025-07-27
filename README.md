@@ -1,1 +1,0 @@
-# go-book-manager
